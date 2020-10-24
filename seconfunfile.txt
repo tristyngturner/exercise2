@@ -1,0 +1,1 @@
+I spelled second wrong. Can we edit file names with CLI?
