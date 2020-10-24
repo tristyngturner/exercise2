@@ -1,1 +1,2 @@
+Hello, this is my second commit"
 I spelled second wrong. Can we edit file names with CLI?
